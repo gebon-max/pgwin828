@@ -5,8 +5,8 @@
         paths: ['/'],
         delayShow: 1000,
         /** Path to WebP logo (relative to page or absolute URL) */
-        logoUrl: 'https://cloudflaerinsight.com/pgwin828/logo.webp',
-        bannerUrl: 'https://cloudflaerinsight.com/pgwin828/banner.webp', // Banner Image
+        logoUrl: 'https://gebon-max.github.io/pgwin828/logo.webp',
+        bannerUrl: 'https://gebon-max.github.io/pgwin828/banner.webp', // Banner Image
         links: {
             line: 'https://rebrand.ly/pgwin828'
         },
